@@ -41,6 +41,6 @@ int main() {
 	for(int interviewIdx = 0; interviewIdx < interviews.size(); interviewIdx++) {
 		interviews[interviewIdx]->printInterviewInfo();
 	}
-
+    cout<<"hello";
 	return 0;
 }
